@@ -1,0 +1,4 @@
+https://towardsdatascience.com/sweetviz-automated-eda-in-python-a97e4cabacde
+https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
+https://datosabiertos.enacom.gob.ar/home
+https://github.com/soyHenry/PI03-Analytics
